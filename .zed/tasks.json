@@ -1,0 +1,33 @@
+// https://zed.dev/docs/tasks
+[
+	{
+		"label": "Run",
+		"command": "bun run dev",
+		"hide": "on_success"
+	},
+	{
+		"label": "Build",
+		"command": "bun run build",
+		"hide": "on_success"
+	},
+	{
+		"label": "Preview",
+		"command": "bun run preview",
+		"hide": "on_success"
+	},
+	{
+		"label": "Format",
+		"command": "bun run format",
+		"hide": "on_success"
+	},
+	{
+		"label": "Lint",
+		"command": "bun run lint",
+		"hide": "on_success"
+	},
+	{
+		"label": "Check",
+		"command": "bun run check",
+		"hide": "on_success"
+	}
+]
