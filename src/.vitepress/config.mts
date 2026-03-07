@@ -3,6 +3,8 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	srcDir: ".",
+	cacheDir: "../cache",
+	outDir: "../dist",
 	lang: "fr-FR",
 	title: "Maël Chiotti",
 	description: "Développeur full-stack",
