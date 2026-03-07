@@ -7,7 +7,9 @@
 		"lint": "bunx --bun @biomejs/biome lint --write",
 		"check": "bunx --bun @biomejs/biome check --write"
 	},
-	"dependencies": {},
+	"dependencies": {
+		"@catppuccin/vitepress": "^0.1.2"
+	},
 	"devDependencies": {
 		"vitepress": "^2.0.0-alpha.16"
 	}

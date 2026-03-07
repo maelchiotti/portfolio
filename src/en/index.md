@@ -6,33 +6,35 @@ hero:
   logo: docs/avatar.png
   name: Maël Chiotti
   text:
-  tagline: Développeur full-stack
+  tagline: Full-stack developper
   actions:
     - theme: brand
-      text: Mon dernier projet
+      text: My last project
       link: /splitterr
     - theme: alt
       text: 🎬 Studio Rv & Co
       link: https://rvandco.fr
 
 features:
-  - title: splitterr
+  - title: Splitterr
     details:  |
       <br/>
-      Une alternative open source et self-hostable à Tricount.
+      An open source and self-hostable alternative to Tricount.
       <br/><br/>
-      API REST développée en Go et self-hostable avec Docker, application web développée avec VueJS, application mobile développée avec Flutter.
+      REST API made in Go and self-hostable with Docker, web application made with VueJS, mobile application made with Flutter.
     link: /splitterr
   - title: Material Notes
     details: |
       <br/>
-      Notes simples, locales, en material design.
+      Simple, local, material design notes.
       <br/><br/>
-      Application Android développée avec Flutter.
+      Android application made with Flutter.
     link: /material_notes
-  - title: Packages Flutter
+  - title: Flutter Packages
     details:  |
       <br/>
-      Packages et plugins pour Dart et Flutter.
+      Packages and plugins for Dart and Flutter.
     link: /packages_flutter
+
+footer: false
 ---
