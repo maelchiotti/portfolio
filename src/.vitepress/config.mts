@@ -8,10 +8,10 @@ export default defineConfig({
 	lang: "fr-FR",
 	title: "Maël Chiotti",
 	description: "Développeur full-stack",
-	head: [["link", { rel: "icon", href: "/assets/favicon.ico" }]],
+	head: [["link", { rel: "icon", href: "/favicon.ico" }]],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
-		logo: "/assets/avatar.png",
+		logo: "/avatar.png",
 		siteTitle: "Maël Chiotti",
 		nav: [
 			{ text: "splitterr", link: "/splitterr" },
