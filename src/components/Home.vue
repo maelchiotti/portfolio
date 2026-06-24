@@ -1,6 +1,4 @@
 <template>
-	<Header />
-
 	<Main />
 
 	<Footer />
